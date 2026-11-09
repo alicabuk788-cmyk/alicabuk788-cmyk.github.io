@@ -1,0 +1,177 @@
+# WATTSTORY GİZLİLİK POLİTİKASI
+
+**Son Güncelleme Tarihi:** 9 Kasım 2026
+
+## 1. Giriş
+
+WattStory olarak kullanıcılarımızın gizliliğine ve kişisel verilerinin korunmasına önem veriyoruz.
+
+Bu Gizlilik Politikası, WattStory mobil uygulamasını kullanan kişilerin hangi bilgilerinin toplandığını, bu bilgilerin nasıl kullanıldığını, saklandığını, korunduğunu ve hangi durumlarda üçüncü taraflarla paylaşılabileceğini açıklamaktadır.
+
+WattStory uygulamasını kullanarak bu Gizlilik Politikası'nda belirtilen uygulamaları kabul etmiş olursunuz.
+
+## 2. Toplanan Bilgiler
+
+WattStory, hizmetlerini sunabilmek ve geliştirebilmek amacıyla aşağıdaki bilgileri toplayabilir:
+
+### 2.1. Hesap Bilgileri
+- Kullanıcı adı ve görünen ad.
+- E-posta adresi.
+- Profil fotoğrafı.
+- Google ile giriş yapılması durumunda Google hesabı üzerinden izin verilen temel profil bilgileri.
+- Kullanıcı tarafından belirlenen profil açıklaması.
+
+### 2.2. Kullanıcı İçerikleri
+- Kullanıcıların yazdığı kitaplar ve hikâyeler.
+- Kitap başlıkları, açıklamaları ve kategorileri.
+- Kitap kapak görselleri.
+- Bölümler ve bölüm içerikleri.
+- Yorumlar ve değerlendirmeler.
+- Kullanıcıların oluşturduğu okuma listeleri.
+
+### 2.3. Uygulama Kullanım Bilgileri
+- Okuma geçmişi ve okuma ilerlemesi.
+- Beğenilen kitaplar.
+- Takip edilen yazarlar.
+- Uygulama içi etkileşimler.
+- Bildirim tercihleri.
+- Uygulama performansı ve hata kayıtları.
+
+### 2.4. Cihaz ve Teknik Bilgiler
+
+Uygulamanın güvenli ve düzgün çalışmasını sağlamak amacıyla cihaz modeli, işletim sistemi sürümü, uygulama sürümü, IP adresi ve teknik tanılama bilgileri gibi veriler işlenebilir.
+
+## 3. Bilgilerin Kullanım Amaçları
+
+Toplanan bilgiler aşağıdaki amaçlarla kullanılabilir:
+
+- Kullanıcı hesaplarının oluşturulması ve yönetilmesi.
+- Kitap yazma, düzenleme, yayımlama ve okuma hizmetlerinin sunulması.
+- Kullanıcı profillerinin görüntülenmesi.
+- Kitapların ve yazarların keşfedilmesi.
+- Beğeni, yorum ve takip özelliklerinin çalıştırılması.
+- Okuma geçmişinin ve ilerlemesinin kaydedilmesi.
+- Kullanıcılara bildirim gönderilmesi.
+- Uygulama güvenliğinin sağlanması.
+- Hata ve performans sorunlarının giderilmesi.
+- Reklamların gösterilmesi ve hizmetlerin geliştirilmesi.
+
+## 4. Üçüncü Taraf Hizmetleri
+
+WattStory, hizmetlerini sunabilmek için belirli üçüncü taraf teknolojilerden yararlanabilir.
+
+### 4.1. Supabase
+
+Kullanıcı hesapları, uygulama verileri ve kullanıcı içerikleri Supabase altyapısı üzerinden saklanabilir ve yönetilebilir.
+
+Supabase, kendi hizmet koşulları ve gizlilik politikası çerçevesinde veri işleyebilir.
+
+Gizlilik politikası: https://supabase.com/privacy
+
+### 4.2. Google ile Giriş
+
+Kullanıcılar Google hesapları aracılığıyla WattStory'ye giriş yapabilir.
+
+Bu işlem sırasında Google tarafından izin verilen hesap bilgileri, kullanıcı kimliğinin doğrulanması ve hesabın oluşturulması amacıyla kullanılabilir.
+
+Google Gizlilik Politikası: https://policies.google.com/privacy
+
+### 4.3. Google AdMob
+
+WattStory, ücretsiz hizmetlerin sürdürülebilmesi amacıyla Google AdMob reklamlarından yararlanabilir.
+
+AdMob, reklamların sunulması, ölçülmesi ve kişiselleştirilmesi amacıyla cihaz tanımlayıcıları, reklam etkileşimleri ve benzeri teknik verileri işleyebilir.
+
+Kullanıcılar, cihazlarının reklam ve gizlilik ayarları üzerinden reklam tercihlerini yönetebilir.
+
+Google Reklam Politikası: https://policies.google.com/technologies/ads
+
+## 5. Kullanıcı İçerikleri ve Sorumluluk
+
+WattStory kullanıcıları kendi kitaplarını, hikâyelerini, yorumlarını ve diğer içeriklerini oluşturabilir ve yayımlayabilir.
+
+Kullanıcıların herkese açık olarak yayımladığı kitaplar, yazar profilleri, yorumlar ve diğer içerikler uygulamanın diğer kullanıcıları tarafından görüntülenebilir.
+
+Kullanıcılar, yayımladıkları içeriklerin kişisel bilgilerini veya başkalarına ait özel bilgileri izinsiz içermemesinden sorumludur.
+
+WattStory, kullanıcıların içeriklerini hizmetin sunulması, görüntülenmesi, saklanması ve dağıtılması amacıyla işler.
+
+## 6. Verilerin Saklanması ve Güvenliği
+
+Kullanıcı bilgilerinin yetkisiz erişime, kaybolmaya, değiştirilmesine ve kötüye kullanılmasına karşı korunması için uygun teknik ve idari güvenlik önlemleri uygulanır.
+
+Veriler, hizmetin gerektirdiği süre boyunca veya ilgili mevzuatın öngördüğü sürelerde saklanır.
+
+Bununla birlikte internet üzerinden gerçekleştirilen hiçbir veri aktarımının veya elektronik depolama yönteminin tamamen güvenli olduğu garanti edilemez.
+
+## 7. Kişisel Verilerin Paylaşılması
+
+WattStory, kullanıcıların kişisel bilgilerini satmaz veya ticari amaçla üçüncü kişilere kiralamaz.
+
+Ancak aşağıdaki durumlarda veriler paylaşılabilir:
+
+- Uygulamanın çalışmasını sağlayan teknik hizmet sağlayıcılarla.
+- Reklam ve analiz hizmeti sağlayıcılarıyla.
+- Yasal yükümlülüklerin yerine getirilmesi gerektiğinde yetkili kamu kurumlarıyla.
+- Güvenlik ihlallerinin önlenmesi ve hukuki hakların korunması amacıyla gerekli durumlarda ilgili taraflarla.
+
+Veri paylaşımı, gerekli ve ilgili amaçlarla sınırlı tutulur.
+
+## 8. Kullanıcı Hakları
+
+Kullanıcılar, yürürlükteki kişisel verilerin korunması mevzuatı kapsamında aşağıdaki haklara sahiptir:
+
+- Kişisel verilerinin işlenip işlenmediğini öğrenme.
+- İşlenen kişisel verileri hakkında bilgi talep etme.
+- Yanlış veya eksik bilgilerin düzeltilmesini isteme.
+- Mevzuat kapsamında verilerinin silinmesini veya yok edilmesini talep etme.
+- Kişisel verilerinin işlenmesine ilişkin yasal haklarını kullanma.
+- Uygulanabilir durumlarda veri işlemeye ilişkin izinlerini geri çekme.
+
+## 9. Hesabın Silinmesi
+
+Kullanıcılar WattStory hesaplarının silinmesini talep edebilir.
+
+Hesap silme işlemi kapsamında kişisel hesap bilgileri ve ilgili kullanıcı verileri, yürürlükteki mevzuat ve saklama yükümlülükleri dikkate alınarak silinir veya anonim hâle getirilir.
+
+Yasal olarak saklanması gereken bilgiler ilgili süre boyunca muhafaza edilebilir.
+
+Hesap silme talebi ve kişisel verilerle ilgili başvurular için aşağıdaki iletişim adresi kullanılabilir:
+
+**E-posta:** Alicabuk788@gmail.com
+
+## 10. Çocukların Gizliliği
+
+WattStory, çocukların kişisel verilerinin korunmasına önem verir.
+
+Uygulama, hedeflenen yaş grubuna ve yürürlükteki mevzuata uygun şekilde kullanılmalıdır. Yaş sınırlarına ilişkin kurallar uygulamanın kullanım koşullarında ayrıca belirtilir.
+
+Yaş sınırının altında olduğu tespit edilen kullanıcılara ait bilgilerin hukuka aykırı şekilde toplandığının öğrenilmesi durumunda gerekli işlemler gerçekleştirilir.
+
+## 11. Uluslararası Veri Aktarımı
+
+Kullandığımız üçüncü taraf hizmet sağlayıcılarının sunucuları farklı ülkelerde bulunabilir.
+
+Bu nedenle kişisel veriler, yürürlükteki kişisel verilerin korunması mevzuatında belirtilen şartlara ve güvencelere uygun olarak yurt dışına aktarılabilir.
+
+## 12. Gizlilik Politikasındaki Değişiklikler
+
+WattStory, hizmetlerinde veya yasal yükümlülüklerinde meydana gelen değişiklikler doğrultusunda bu Gizlilik Politikası'nı güncelleyebilir.
+
+Güncellenmiş politika uygulama içerisinde veya ilgili internet sayfasında yayımlandığı tarihten itibaren geçerli olur.
+
+Kullanıcıların bu sayfayı belirli aralıklarla kontrol etmeleri önerilir.
+
+## 13. İletişim
+
+Gizlilik politikası, kişisel verilerin işlenmesi veya kullanıcı hakları hakkında sorularınız için bizimle iletişime geçebilirsiniz.
+
+**Uygulama Adı:** WattStory
+
+**Geliştirici / Veri Sorumlusu:** wattstory inc
+
+**İletişim E-postası:** alicabuk788@gmail.com
+
+---
+
+© 2026 WattStory. Tüm hakları saklıdır.
